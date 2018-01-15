@@ -5,3 +5,9 @@
  * Date: 2018/1/15
  * Time: 15:47
  */
+
+
+function route_class()
+{
+    return str_replace('.', '-', Route::currentRouteName());
+}
