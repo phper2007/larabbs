@@ -63,6 +63,11 @@ return array(
             'users',
             'roles',
             'permissions',
+        ],
+        '用户管理' => [
+            'categories',
+            'topics',
+            'replies',
         ]
     ],
 
